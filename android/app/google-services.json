@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "692723566202",
+    "project_id": "sk-detector",
+    "storage_bucket": "sk-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692723566202:android:238ef9428dd1563b17ddc3",
+        "android_client_info": {
+          "package_name": "com.example.sk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692723566202-b72s9scbsd5nll2c3b1bh39l029ognao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvutdCOJIlpjvQbFNXupRyPGIITu_P-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692723566202-b72s9scbsd5nll2c3b1bh39l029ognao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692723566202-i49o0dvuf8v2tb3nnt99f78ftrsvbg7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
